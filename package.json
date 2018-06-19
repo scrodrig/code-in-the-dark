@@ -5,10 +5,10 @@
   "dependencies": {
     "jquery": "^2.2.0",
     "normalize.css": "^3.0.3",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-scripts": "0.9.5",
-    "react-share": "^1.13.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "^1.1.4",
+    "react-share": "^2.2.0",
     "react-share-fix11": "^1.7.0",
     "react-social-embed": "0.0.3"
   },
