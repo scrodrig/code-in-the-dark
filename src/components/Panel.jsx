@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Rules from './Rules'
 import HowItWorks from './HowItWorks'
 
@@ -18,6 +18,5 @@ class Panel extends React.Component {
     );
   }
 }
-
 
 export default Panel;

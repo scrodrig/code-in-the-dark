@@ -1,6 +1,4 @@
-import React, { Component } from 'react';
-
-
+import React from 'react';
 
 class Player extends React.Component {
 
@@ -17,6 +15,5 @@ class Player extends React.Component {
     );
   }
 }
-
 
 export default Player;

@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 class Place extends React.Component {
   render() {
@@ -26,6 +26,5 @@ class Place extends React.Component {
     );
   }
 }
-
 
 export default Place;

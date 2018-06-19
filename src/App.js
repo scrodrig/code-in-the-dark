@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Welcome from './components/Welcome';
 import SocialLinks from './components/SocialLinks';
 import Logo from './components/Logo';
 import Panel from './components/Panel';
