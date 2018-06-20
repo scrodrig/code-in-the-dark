@@ -9,7 +9,7 @@ class Player extends React.Component {
   render() {
     return(
       <section>
-          <iframe width="480" height="300" src="https://www.youtube.com/embed/BzeFY4PGUNc" frameBorder="0" allowFullScreen></iframe>
+          <iframe title="Code in the Dark" width="480" height="300" src="https://www.youtube.com/embed/BzeFY4PGUNc" frameBorder="0" allowFullScreen></iframe>
       </section>
 
     );
