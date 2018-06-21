@@ -8,7 +8,7 @@ import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Player from './components/Player';
 
-var url = 'http://bit.ly/CodeintheDarkEC';
+var url = 'https://code-in-the-dark.herokuapp.com';
 
 class App extends Component {
     render() {
