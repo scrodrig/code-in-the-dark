@@ -2,7 +2,8 @@ import React, {Component} from 'react';
 import './App.css';
 import SocialLinks from './components/SocialLinks';
 import Logo from './components/Logo';
-import Panel from './components/Panel';
+import Rules from './components/Rules';
+import HowItWorks from './components/HowItWorks';
 import Place from './components/Place';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -17,9 +18,9 @@ class App extends Component {
                 <SocialLinks url={url} picture="https://info.thoughtworks.com/rs/199-QDE-291/images/cid-facebook.png" />
                 <Logo/>
                 <Player/>
-                <Panel/>
+                <Rules/>
+                <HowItWorks/>
                 <Place/>
-                <Contact/>
                 <Footer/>
             </div>
         );

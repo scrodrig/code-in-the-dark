@@ -1,12 +1,13 @@
 import React from 'react';
+import Contact from './Contact'
 
 class Place extends React.Component {
   render() {
     return(
-      <div>
+      <div className="content">
         <section className="vertical-space-hiw">
             <h2>¿Cuándo?</h2>
-            <h3>26 . 04 . 2017</h3>
+            <h3>06 . 09 . 2018</h3>
             <h3>19H00</h3>
         </section>
         <section className="vertical-space">
@@ -22,6 +23,7 @@ class Place extends React.Component {
                 <img className="small-logo" src="content/map-perspective-with-a-placeholder-on-it.png" alt="Mapa" />
             </a>
         </section>
+        <Contact/>
       </div>
     );
   }

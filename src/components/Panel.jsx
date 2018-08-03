@@ -5,15 +5,15 @@ import HowItWorks from './HowItWorks'
 class Panel extends React.Component {
   render() {
     return(
-        <section className="section">
-        <div className="row">
-            <div className="half-row">
-                <Rules />
+        <section className="section content">
+            <div className="row">
+                <div className="half-row">
+                    <Rules />
+                </div>
+                <div className="half-row">
+                    <HowItWorks />
+                </div>
             </div>
-            <div className="half-row">
-                <HowItWorks />
-            </div>
-        </div>
       </section>
     );
   }

@@ -8,8 +8,8 @@ class Player extends React.Component {
 
   render() {
     return(
-      <section>
-          <iframe title="Code in the Dark" width="480" height="300" src="https://www.youtube.com/embed/BzeFY4PGUNc" frameBorder="0" allowFullScreen></iframe>
+      <section className="content">
+          <iframe title="Code in the Dark" width="100%" height="100%" src="https://www.youtube.com/embed/BzeFY4PGUNc" frameBorder="0" allowFullScreen></iframe>
       </section>
 
     );
