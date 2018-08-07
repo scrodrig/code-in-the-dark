@@ -16,7 +16,7 @@ class SocialLinks extends React.Component {
     return(
             <div className="social-links">
               <LinkedinShareButton title='Code in the Dark EC' description="¿Eres experto/a en Front End? Prepárate, pondremos a prueba tus conocimientos" url={this.props.url} children={<LinkedinIcon size={32} round={true} />}/>
-              <TwitterShareButton title='Code in the Dark EC' via="Thoughtworks_es" hashtags={['CodeInTheDarkUIO','TWAndes','TWUIO']} url={this.props.url} picture={this.props.picture} children={<TwitterIcon size={32} round={true} />}/>
+              <TwitterShareButton title='Code in the Dark EC' via="ThoughtworksANS" hashtags={['CodeInTheDarkUIO','TWAndes','TWUIO']} url={this.props.url} picture={this.props.picture} children={<TwitterIcon size={32} round={true} />}/>
               <FacebookShareButton title='Code in the Dark EC' description="¿Eres experto/a en Front-end? Prepárate, pondremos a prueba tus conocimientos" picture={this.props.picture} url={this.props.url} children={<FacebookIcon size={32} round={true} />}/>
             </div>
           )
