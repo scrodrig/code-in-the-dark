@@ -15,7 +15,7 @@ class Rules extends React.Component {
                     </ul>
                     <h2 className="vertical-space">Premios</h2>
                     <ul>
-                        <li>Categoría Senior: Kindle</li>
+                        <li>Categoría Senior: Kindle + Curso de Udemy</li>
                         <li>Categoría Junior: Cursos de  Udemy</li>
                         <li>Categoría Android: Kindle</li>
                     </ul>
