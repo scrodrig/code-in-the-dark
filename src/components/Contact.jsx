@@ -5,8 +5,8 @@ class Contact extends React.Component {
     return (
       <div style={{ marginTop: "40px" }}>
         <section className="inscription-links">
-          <a href="https://info.thoughtworks.com/CodeintheDark2017-Concursante.html" className="btn-default btn-lg" target="_blank" rel="noopener noreferrer">Quiero participar!</a>
-          <a href="https://info.thoughtworks.com/CodeintheDark2017-Asistente.html" className="btn-default btn-lg" target="_blank" rel="noopener noreferrer">Quiero asistir</a>
+          <a href="https://info.thoughtworks.com/ConcursantesCID2018.html" className="btn-default btn-lg" target="_blank" rel="noopener noreferrer">Quiero participar!</a>
+          <a href="https://info.thoughtworks.com/AsistentesCID2018.html" className="btn-default btn-lg" target="_blank" rel="noopener noreferrer">Quiero asistir</a>
         </section>
         <section className="section">
           <p>
